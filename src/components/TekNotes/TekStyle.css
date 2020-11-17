@@ -1,0 +1,63 @@
+.accordion {
+    width: 100%;
+    background-color: #E5E7E9;
+    text-align: left;
+    border: none;
+    outline: none;
+    font-size: 25px;
+    font-weight: lighter;
+    transition: all 1s ease;
+    cursor: pointer;
+    padding: 15px;
+    height: 90px;
+}
+
+.accordion:hover{
+    background-color: #D7DBDD;
+}
+
+.accordion:active {
+    background-color: #D7DBDD;
+    outline: none;
+}
+
+.accordion:focus {
+    outline: none;
+}
+
+#tekContainer {
+    width: 70%;
+    min-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+.active {
+    background-color: #D7DBDD;
+}
+
+
+.caret {
+    float: right;
+    display: inline-block;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+}
+
+
+.answers {
+    padding-left: 15px;
+    padding-right: 15px;
+    max-height: 0;
+    background-color: #E5E7E9;
+    overflow: hidden;
+    transition: all 0.5s ease;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.faqContainer {
+    margin-bottom: 20px;
+}
+

@@ -1,38 +1,258 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+
+
+
+
+
+
+
+/*
+#navBar{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  background-color: #FFFFFF;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+#bitImage{
+  height: auto;
+  width: 100%;
+}
+
+.homeImageContainer{
+  top: 100px;
+  position: relative;
+  height: auto;
+  z-index: 0;
+}
+
+.textBlock{
+  position: relative;
+  width: 50%;
+  bottom: 15vw;
+  left: 50px;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+#imageHeader{
+  font-size: 2.5vw;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+#imageCaption{
+  font-size: 1.5vw;
+}
+
+#learnMoreButton{
+  size: 1.5vw;
+}
+
+.navItem{
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
+  border-radius: 10px;
+}
+
+.navItem:hover {
+  background-color: lightgray;
+  border-radius: 10px
+}
+
+.navLink:hover{
+  color: #353535;
+}
+
+.navLink{
+  color: #353535
+}
+
+#aboutUsTitle, #coatingInfoTitle {
+  alignment: right;
+  padding-right: 100px;
+  font-size: 50px;
+  min-font-size: 30px;
+  animation: 1s ease-out 0s 1 fadeUp;
+}
+
+#aboutUsTitleContainer, #coatingInfoTitleContainer {
+  margin-top: 120px;
+  height: 70px;
+  text-align: right;
+}
+
+
+#housingImageDiv{
+  padding-right: 30px;
+  width: 200%;
+}
+
+#housingImage{
+  width: 100%;
+  height: auto;
+}
+
+#aboutContentContainer{
+  padding-right: 20%;
+  padding-left: 20%;
+  padding-top: 75px;
+  animation: 1s ease-out 0s 1 fadeUp;
+
+}
+
+@keyframes fadeUp {
+  0%{
+    transform: translateY(2%);
+    opacity: 0.1;
   }
-  to {
-    transform: rotate(360deg);
+  100%{
+    transform: translateY(0%);
+    opacity: 1;
   }
 }
+
+
+#logo{
+  width: 200px;
+  height: auto;
+}
+
+#stWayContainer{
+  display: flex;
+  padding-top: 20px;
+}
+
+#stWayCaption{
+  padding-top: 10px;
+}
+
+#compWayContainer{
+  display: flex;
+  padding-bottom: 20px;
+}
+
+#compWayCaption{
+  padding-top: 70px;
+  padding-left: 50px;
+}
+
+#footerBreak{
+  content: "";
+  height: 50px;
+}
+
+#footerContentContainer{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding: 30px;
+}
+
+#footerImage{
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#addressInfo{
+  padding-right: 20px;
+}
+#phoneFaxInfo{
+  padding-left: 20px;
+}
+
+#phoneFaxInfo, #addressInfo{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#coatingReqContainer{
+  padding-bottom: 20px;
+}
+
+#mapContainer{
+  padding-left: 20%;
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+  display: flex;
+  background-color: #C2C2C2;
+  animation: 1s ease-out 0s 1 fadeUp;
+
+}
+
+#mapDescContainer{
+  padding-right: 10%;
+  animation: 1s ease-out 0s 1 fadeUp;
+}
+
+#mapImageContainer{
+  padding-left: 10%;
+}
+
+#coatingInfoTitle{
+
+}
+
+#coatingInfoContentContainer{
+  padding-top: 75px;
+}
+
+.tabs{
+  width: 100%;
+  background-color: #353535;
+  border-radius: 0;
+}
+
+.individualTabs{
+  border-radius: 0;
+  width: 20%;
+  text-align: center;
+  cursor: pointer;
+  color: #FFFFFF;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+.individualTabs:hover{
+  background-color: white;
+  color: #353535;
+}
+
+
+#tabOverline{
+  height: 5px;
+  width: 20%;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

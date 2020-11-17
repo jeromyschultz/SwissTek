@@ -1,0 +1,48 @@
+#footerBreak{
+    content: "";
+    height: 50px;
+}
+
+#footerContainer {
+    margin-top: 20px;
+}
+
+#footerContentContainer{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 30px;
+}
+
+
+#footerImage{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#addressInfoContainer{
+    padding-right: 20px;
+}
+#phoneFaxInfoContainer{
+    padding-left: 20px;
+}
+
+#phoneFaxInfoContainer, #addressInfoContainer{
+    width: 300px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+#imageContainer {
+    width: 250px;
+}
+
+@media only screen and (max-width: 1000px) {
+    #phoneFaxInfoContainer, #addressInfoContainer {
+        width: auto;
+    }
+}

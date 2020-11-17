@@ -1,21 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d071770-b1b1-40ca-ba65-5ee21fcf42ad" name="Default Changelist" comment="" />
+    <list default="true" id="5d071770-b1b1-40ca-ba65-5ee21fcf42ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AboutUs/AboutUs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AboutUs/components/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AllPages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Careers/Careers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Careers/components/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CoatingInfo/CoatingInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CoatingInfo/CoatingInfoStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CoatingInfo/components/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactUs/ContactStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactUs/ContactUs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactUs/components/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FooterStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HeaderStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomePage/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomePage/HomeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomePage/components/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TekNotes/TekNotes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TekNotes/TekStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TekNotes/components/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ALTiN.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/CBC.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/CrN.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/TICNMP.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/TiALN.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/TiCN.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/TiN.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/TiN.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ZrN.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/compWay.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/housing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/map.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/stLogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/stWay.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="swisstek" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Sass File" />
+        <option value="SCSS File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dJfLCiFNGSNcGoxD5Q8lIkvc3Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\schultzjf\WebstormProjects\swisstek\src\components" />
+      <recent name="C:\Users\schultzjf\WebstormProjects\swisstek\src\components\HomePage" />
+      <recent name="C:\Users\schultzjf\WebstormProjects\swisstek\src\components\HomePage\components" />
+      <recent name="C:\Users\schultzjf\WebstormProjects\swisstek\src\images" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="node" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
@@ -44,17 +134,76 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592148058163</updated>
-      <workItem from="1592148059612" duration="8000" />
+      <workItem from="1592148059612" duration="3709000" />
+      <workItem from="1594046972720" duration="4283000" />
+      <workItem from="1594567799383" duration="2410000" />
+      <workItem from="1598280168286" duration="133780000" />
+      <workItem from="1599659276322" duration="5076000" />
+      <workItem from="1599671776205" duration="35506000" />
+      <workItem from="1599860758669" duration="8148000" />
+      <workItem from="1599934964597" duration="2940000" />
+      <workItem from="1602451596091" duration="21000" />
+      <workItem from="1602451630254" duration="263000" />
+      <workItem from="1602457298758" duration="93000" />
+      <workItem from="1602457496172" duration="1236000" />
+      <workItem from="1602458816970" duration="1968000" />
+      <workItem from="1602597177284" duration="3744000" />
+      <workItem from="1602609347837" duration="18000" />
+      <workItem from="1602633677659" duration="65000" />
+      <workItem from="1602880271845" duration="605000" />
+      <workItem from="1603217568756" duration="685000" />
+      <workItem from="1603492031413" duration="871000" />
+      <workItem from="1604428882668" duration="1000000" />
+      <workItem from="1605644552310" duration="275000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="447" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592148067124">
+    <state x="883" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599075075178">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="447" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592148067124" />
+    <state x="883" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599075075178" />
+    <state x="393" y="6" key="CommitChangelistDialog2" timestamp="1605644610526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605644610526" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1602451892906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602451892906" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1602451892906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602451892906" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1602451892906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602451892906" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1602451892906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602451892906" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1605644592719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605644592719" />
+    <state x="963" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598559870468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="963" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1598559870468" />
+    <state x="759" y="190" key="run.anything.popup" timestamp="1599409014591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="759" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599409014591" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1598460467267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598460467267" />
   </component>
 </project>

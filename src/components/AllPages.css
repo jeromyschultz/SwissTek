@@ -1,0 +1,75 @@
+.pageTitleContainers {
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    margin-top: 130px;
+    height: 70px;
+    text-align: right;
+}
+
+.pageTitles {
+    padding-right: 10%;
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+
+.contentSpacers {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.contentContainers {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .pageTitleContainers {
+        margin-top: 100px;
+        margin-bottom: 30px;
+    }
+}
+
+
+@keyframes fadeInLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadeInRight {
+    0% {
+        opacity: 0;
+        transform: translateX(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.titles {
+    font-weight: lighter;
+    margin-top: 30px;
+}
+
+
+.text > p{
+     font-size: 20px;
+     font-weight: lighter;
+ }
+
+.text {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}

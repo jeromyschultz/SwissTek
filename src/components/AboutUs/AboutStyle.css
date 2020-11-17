@@ -1,0 +1,115 @@
+.text > div > p {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+
+#ourWayContainer, #compWayContainer {
+    transition: all 1s ease;
+    display: flex;
+    height: 275px;
+}
+
+#ourWayCaptionContainer > p , #compWayCaptionContainer > p{
+    padding-right: 5%;
+    padding-left: 5%;
+    height: 250px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #E5E7E9;
+}
+
+#compWayCaptionContainer {
+    width: 75%;
+}
+
+
+ul {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#ourWayImage {
+    height: 250px;
+}
+
+#ourWayImageContainer, #compWayImageContainer {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    #ourWayContainer {
+        display: block;
+        height: 550px;
+    }
+
+    #ourWayImage {
+        height: 250px;
+        display: block;
+        margin: auto;
+    }
+
+    #ourWayCaptionContainer {
+    }
+
+    #ourWayImageContainer {
+        height: 275px;
+    }
+
+    #backgroundTextContainer {
+        height: 210px !important;
+    }
+
+    #backgroundText {
+        height: 200px !important;
+    }
+
+    #requirementsContainer {
+        height: 300px !important;
+    }
+
+    #requirementsContainer > p{
+        height: 300px !important;
+    }
+
+}
+
+#backgroundText {
+    height: 150px;
+    background-color: #E5E7E9;
+    padding-left: 5%;
+    padding-right: 5%;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+#backgroundTextContainer {
+    height: 160px;
+    background-color: #E5E7E9;
+}
+
+#requirementsContainer {
+    height: 180px;
+    background-color: #E5E7E9;
+}
+
+#requirementsContainer > p {
+    display: table-cell;
+    vertical-align: middle;
+    padding-right: 5%;
+    padding-left: 5%;
+    height: 180px;
+}
+
+#locationContainer {
+    background-color: #E5E7E9;
+}
+
+#map {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+

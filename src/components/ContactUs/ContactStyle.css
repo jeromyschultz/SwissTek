@@ -1,0 +1,107 @@
+.formContainer {
+    border-bottom: 1px solid black;
+    width: 40%;
+    margin: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+#comments {
+    width: 100%;
+    height: 90%;
+}
+
+#commentContainer {
+    width: 80%;
+    border: 1px solid black;
+    padding-top: 20px;
+    margin-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#concerns {
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+}
+
+#comments {
+    font-size: 20px;
+    background-color: #E5E7E9;
+    font-weight: lighter;
+}
+
+#comments, #comments:active, #comments:focus {
+    border: none;
+    outline: none;
+}
+
+select {
+    background-color: #E5E7E9;
+    font-weight: lighter;
+    color: #424949;
+    width: 100%;
+}
+
+#submit {
+    transition: all 0.5s ease;
+    width: 280px;
+}
+
+#submit:hover {
+    background-color: #CACFD2;
+}
+
+
+
+#submitContainer {
+    font-size: 30px;
+    text-align: center;
+    margin: 30px auto;
+    padding-bottom: 50px;
+    width: 300px;
+}
+
+
+option {
+    font-weight: lighter;
+    color: #424949;
+}
+
+
+
+::placeholder {
+    color: #424949;
+}
+
+select, select:focus, select:active {
+    border: none;
+    outline: none;
+}
+
+input:focus, input, input:active{
+    border: none;
+    outline: none;
+}
+
+.splitForm {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    font-weight: lighter;
+    background-color: #E5E7E9;
+}
+
+#formContainer {
+    width: 70%;
+    min-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #E5E7E9;
+}

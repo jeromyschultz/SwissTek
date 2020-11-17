@@ -1,0 +1,74 @@
+#bitImage{
+    height: auto;
+    width: 100%;
+}
+
+
+.textBlock{
+    position: relative;
+    width: 50%;
+    bottom: 15vw;
+    left: 50px;
+    color: white;
+}
+
+#homeImageContainer{
+    padding-top: 100px;
+    z-index: 0;
+}
+
+#imageCaption{
+    font-size: 1.5vw;
+}
+
+#learnMoreButton{
+    size: 1.5vw;
+}
+
+#imageHeader{
+    font-size: 2.5vw;
+}
+
+#coatingAdvantagesContainer{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    color: black;
+    font-weight: lighter;
+    text-wrap: normal;
+    transform: translateY(-70px);
+}
+
+#coatingAdvantagesP, #coatingInfoLearnMore {
+    font-size: 30px;
+}
+
+
+
+#coatingInfoLearnMore {
+    position: relative;
+}
+
+#coatingInfoLearnMore:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 1px;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    visibility: hidden;
+    transition: all 0.3s ease-in-out;
+}
+
+#coatingInfoLearnMore:hover:before {
+    visibility: visible;
+    width: 100%;
+}
+
+
+
+
+
+
+

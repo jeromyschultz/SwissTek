@@ -1,0 +1,120 @@
+#headerContainer {
+    display: flex;
+    background-color: white;
+    top: 0;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+}
+
+#imageContainer {
+    width: 315px !important;
+}
+
+#headerLinkContainer {
+    width: 100%;
+    display: flex;
+}
+
+.pageLinks {
+    display: inline-block;
+    height: 100%;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+
+.linkContainer {
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    width: calc(100%/5);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.linkContainer:hover {
+    background-color: #CACFD2;
+}
+
+
+a:link, a:hover, a:link:hover, a:link:visited, a:visited, a:visited:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#headerLogo {
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+    width: auto;
+    height: 125px;
+}
+
+
+@media only screen and (max-width: 1000px) {
+    body #imageContainer {
+        height: 100px !important;
+    }
+    body #headerLogo {
+        height: 100px !important;
+    }
+    body #headerContainer {
+        height: 100px !important;
+    }
+    body .pageLinks{
+        line-height: 100px !important;
+        padding-top: 0 !important;
+        font-size: 17px !important;
+    }
+    body #coatingInfoLink {
+        line-height: 30px !important;
+        padding-top: 20px !important;
+    }
+    body .linkContainer {
+        height: 100px !important;
+    }
+}
+
+#headerLogo {
+    height: 130px;
+}
+#headerContainer {
+    height: 130px;
+}
+.pageLinks{
+    line-height: 130px;
+    padding-top: 0;
+    font-size: 25px;
+}
+
+.linkContainer {
+    height: 130px;
+}
+
+#coatingInfoLink {
+    line-height: 30px;
+    padding-top: 35px;
+}
+
+
+
+
+
+
+
